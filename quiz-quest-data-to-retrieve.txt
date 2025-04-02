@@ -1,0 +1,64 @@
+- Retrieve Level group by difficulty using parameters: gradeLevel, subject, userId
+expected data:
+{
+"Easy":[
+    {
+      "questionId": "asd89123asd91823",
+      "level": 1,
+      "star": 3,
+    },
+    {
+      "questionId": "asd89123asd91823",
+      "level": 2,
+      "star": 2,
+    },
+],
+"Average":[
+    {
+      "questionId": "asd89123asd91823",
+      "level": 1,
+      "star": 3,
+    },
+    {
+      "questionId": "asd89123asd91823",
+      "level": 2,
+      "star": 2,
+    },
+],
+"Difficult":[
+    {
+      "questionId": "asd89123asd91823",
+      "level": 1,
+      "star": 3,
+    },
+    {
+      "questionId": "asd89123asd91823",
+      "level": 2,
+      "star": 2,
+    },
+],
+}
+
+
+
+endpoint question id = 
+
+- Retrieve Question by id
+    {
+      "id": "67e8f9a394ad1a2efc5a9c87",
+      "lesson": "GEOMETRY OF SHAPES AND GEOMETRIC RELATIONSHIPS",
+      "question": "Find the perimeter of a rectangle with a length of 12 cm and a width of 8 cm.",
+      "tutorialLink": "https://example.com",
+    },
+
+- Submit answer
+params
+userid
+questioned
+answer
+
+expected response is:
+{
+	"success": true,
+	"star": 3
+}

@@ -1,0 +1,98 @@
+{
+  "jobs": [
+    {
+      "id": "01d8",
+      "title": "Angular Developer",
+      "type": "Full-Time",
+      "location": "Chmsu Main Talisay",
+      "description": "An Angular Developer is responsible for designing, developing, and maintaining dynamic web applications using the Angular framework. They work closely with back-end developers, UI/UX designers, and other stakeholders to create seamless and efficient user experiences.",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Chmsu",
+        "description": "School MIS Web Development Team is responsible for designing, developing, and maintaining the institution's Management Information System (MIS). This system streamlines administrative tasks, student records, faculty management, and academic processes, ensuring efficiency, security, and scalability.",
+        "contactEmail": "mark.meguizo@gmail.com",
+        "contactPhone": "03446981371111"
+      }
+    },
+    {
+      "id": "3dd3",
+      "title": "PHP Full-Stack Web Developer",
+      "type": "Full-Time",
+      "location": "Chmsu Main Talisay",
+      "description": "A PHP Developer is responsible for building and maintaining dynamic web applications, APIs, and back-end systems using PHP. They work with databases, ensure security best practices, and collaborate with front-end developers to create seamless user experiences.",
+      "salary": "$60K - 70K",
+      "company": {
+        "name": "Chmsu",
+        "description": "Management Information System (MIS). This system streamlines administrative tasks, student records, faculty management, and academic processes, ensuring efficiency, security, and scalability.",
+        "contactEmail": "mark.meguizo@gmail.com",
+        "contactPhone": "12312"
+      }
+    },
+    {
+      "id": "5a2f",
+      "title": "UI/UX Designer",
+      "type": "Full-Time",
+      "description": "A UI/UX Designer is responsible for designing and improving the user experience of the school’s MIS web applications. They create wireframes, prototypes, and user interfaces to ensure a seamless and accessible system for students, faculty, and administrators.",
+      "salary": "$50K - 60K",
+      "location": "Chmsu Main Talisay",
+      "company": {
+        "name": "Chmsu",
+        "description": "Responsible for enhancing the usability and accessibility of the institution's Management Information System (MIS) through research-driven UI/UX design.",
+        "contactEmail": "mark.meguizo@gmail.com",
+        "contactPhone": "0344698137"
+      },
+      "created": "2025-03-31T08:32:45.120Z",
+      "updated": "2025-03-31T08:32:45.120Z"
+    },
+    {
+      "id": "8c91",
+      "title": "Database Administrator (DBA)",
+      "type": "Full-Time",
+      "description": "A Database Administrator is responsible for managing the MIS database, ensuring data integrity, security, and optimal performance. They develop backup strategies, optimize queries, and ensure compliance with data privacy regulations.",
+      "salary": "$65K - 75K",
+      "location": "Chmsu Main Talisay",
+      "company": {
+        "name": "Chmsu",
+        "description": "Handles the database management of the institution's MIS, ensuring data security, integrity, and performance optimization.",
+        "contactEmail": "mark.meguizo@gmail.com",
+        "contactPhone": "0344698137"
+      },
+      "created": "2025-03-31T08:33:59.540Z",
+      "updated": "2025-03-31T08:33:59.540Z"
+    },
+    {
+      "id": "a869",
+      "title": "Backend Developer",
+      "type": "Full-Time",
+      "description": "A Backend Developer is responsible for building and maintaining server-side logic, databases, and APIs. They ensure efficient data processing and seamless integration with front-end applications.",
+      "salary": "Under $50K",
+      "location": "Chmsu Main Talisay",
+      "company": {
+        "name": "Chmsu",
+        "description": "Develops and maintains the backend infrastructure of the institution's MIS, ensuring performance, security, and reliability.",
+        "contactEmail": "mark.meguizo@gmail.com",
+        "contactPhone": "0344698137"
+      },
+      "created": "2025-03-31T08:46:16.367Z",
+      "updated": "2025-03-31T08:46:16.367Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "2332",
+      "firstName": "tester",
+      "lastName": "tester",
+      "role": "user",
+      "email": "tester@chmsu.edu.ph",
+      "password": "$2b$10$XbQ4JrUhkuazTf3lyQMsXOiidgKdcWmzJqbZzPe.8zM4wKccw.QLW"
+    },
+    {
+      "id": "e63a",
+      "firstName": "mark",
+      "lastName": "mark",
+      "role": "admin",
+      "email": "mark.meguizo@gmail.com",
+      "password": "$2b$10$ntvwrI3/1CaUncm57MfZeuN/S3ygyMNO3aVO4fdquP3pm8srvXhf2"
+    }
+  ]
+}
